@@ -5,7 +5,7 @@ tags: []
 
 # 🚀 Arduino UNO Based CubeSat Flight Computer & Telemetry System
 
-![CubeSat Banner](assets/cubesat_banner.png)
+![CubeSat Banner](assests/overview.png)
 
 ## 📖 Overview
 
